@@ -57,7 +57,7 @@ Basic Encryption & Decryption/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/aymenaltaf/caesar-cipher-encryption-decryption.git
 ```
 
 ### 2️⃣ Open the Project Folder
