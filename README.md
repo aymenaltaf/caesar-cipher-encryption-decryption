@@ -1,6 +1,6 @@
 # 🔐 Caesar Cipher Encryption & Decryption Tool
 
-A modern **Python GUI application** for encrypting and decrypting text using the **Caesar Cipher Algorithm**. This project was developed as **Task 2** for the **DecodeLabs Cyber Security Internship**.
+A modern **Python GUI application** for encrypting and decrypting text using the **Caesar Cipher Algorithm**. 
 
 The application provides an intuitive graphical user interface (GUI) built with **ttkbootstrap**, allowing users to securely encrypt and decrypt messages using a customizable shift key.
 
@@ -166,8 +166,6 @@ The application includes validation to improve usability and prevent errors.
 ## 👨‍💻 Developer
 
 **Aymen Altaf**
-
-**DecodeLabs Cyber Security Internship**
 
 
 
