@@ -171,6 +171,6 @@ The application includes validation to improve usability and prevent errors.
 
 ## 📄 License
 
-This project is developed for **educational purposes** as part of the **DecodeLabs Cyber Security Internship**.
+This project is developed for **educational purposes**.
 
 
