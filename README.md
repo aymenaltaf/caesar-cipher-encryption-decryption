@@ -63,7 +63,7 @@ git clone https://github.com/aymenaltaf/caesar-cipher-encryption-decryption.git
 ### 2️⃣ Open the Project Folder
 
 ```bash
-cd your-repository-name
+cd caesar-cipher-encryption-decryption
 ```
 
 ### 3️⃣ Install Required Libraries
