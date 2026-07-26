@@ -105,19 +105,19 @@ python main.py
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/home.png)
+![Home Screen](home.png)
 
 ---
 
 ### 🔒 Encryption Example
 
-![Encryption](screenshots/encrypt.png)
+![Encryption](encrypt.png)
 
 ---
 
 ### 🔓 Decryption Example
 
-![Decryption](screenshots/decrypt.png)
+![Decryption](decrypt.png)
 
 
 ## 🔐 Caesar Cipher Algorithm
